@@ -1,0 +1,2 @@
+# TriangularPattern
+A pattern generate 
